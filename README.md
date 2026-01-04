@@ -25,10 +25,11 @@ Run the following after cloning the repository:
 
 ```bash
 python shell.py
-
+```
 
 ## Requirements
 Python 3.x
+
 
 
 
